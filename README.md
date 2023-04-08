@@ -38,7 +38,7 @@
 
 ## About Me ✍
  
- I m <b> Rajiv</b>, a <b>Computer Science Engineer</b> From Rewari Haryana  As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
+ I m <b> Simran</b>, a <b>Computer Science Engineer</b> From Faridabad  As a professional,  As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
 
 
 </div>
@@ -47,7 +47,7 @@
 
 ## Technical Skills 🛠 
 
-<img align='left' src='https://github.com/rajiv786/rajiv786/blob/main/assets/about.png' width='250"'>
+<img align='left' src='https://github.com/simrantandon2801/simrantandon2801/blob/main/assets/about.png' width='250"'>
 
 As we all know that under <b>engineering</b>, technical skills always provide unique gratitude and passion for any technical guy. So these technical skills of the engineer always help him, in the same way at all the time, Just as <b>Yodhya</b> protects his life from his enemies using the weapons and scriptures in a war. I am also an engineer, so I too should have such weapons and scriptures
 
@@ -101,19 +101,19 @@ Having a hobby is a <b>great</b> <img align='right' src='https://github.com/raji
 but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I read various kinds of books. I have also started writing so that I could make my hobby as my profession and some of them are as follows.
 ##
 <p align="center">
-  <a href="https://auth.geeksforgeeks.org/user/rajivkhanduja2/practice">
+  <a href="https://auth.geeksforgeeks.org/user/simrantandon2801/practice">
     <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="codechef" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
-  <a href="https://leetcode.com/rajivkhanduja2">
+  <a href="https://leetcode.com/simrantandon2801">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.hackerrank.com/rajivkhanduja2">
+  <a href="https://www.hackerrank.com/simrantandon2801">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
-  <a href="https://www.codewars.com/users/rajiv786">
+  <a href="https://www.codewars.com/users/simrantandon2801">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
   </a> &nbsp;&nbsp;&nbsp;
 </p>
@@ -125,12 +125,12 @@ but also gives you various benefits which can improve the quality of your life. 
 
 ## Quick Overview 📝
     
-<a href="https://github.com/rajiv786/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rajiv786&show_icons=true&include_all_commits=true&theme=radical" alt="Rajiv's github stats" />
+<a href="https://github.com/simrantandon2801/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=simrantandon2801&show_icons=true&include_all_commits=true&theme=radical" alt="Rajiv's github stats" />
 </a>
-<a href="https://github.com/rajiv786/github-readme-stats">
+<a href="https://github.com/simrantandon2801/github-readme-stats">
  
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rajiv786&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=simrantandon2801&layout=compact&theme=radical" />
 </a>
 
 
@@ -143,13 +143,11 @@ but also gives you various benefits which can improve the quality of your life. 
 
 
 <div align="center">
-<a href="https://github.com/rajiv786" target="_blank">
+<a href="https://github.com/simrantandon2801" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/rajiv.khanduja.1232" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 
-<a href="https://linkedin.com/in/rajiv-khanduja" target="_blank">
+<a href="https://linkedin.com/in/simrantandon2801" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
  
@@ -164,7 +162,7 @@ but also gives you various benefits which can improve the quality of your life. 
 
 <p align="center"> 
  <b> Can you break this count of Profile view?</b><br>
-  <img src="https://profile-counter.glitch.me/rajiv786/count.svg" />
+  <img src="https://profile-counter.glitch.me/simrantandon2801/count.svg" />
 </p>
 
    
@@ -172,6 +170,6 @@ but also gives you various benefits which can improve the quality of your life. 
 
 
 
-<a href="https://github.com/rajiv786/rajiv786"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
+<a href="https://github.com/simrantandon2801/simrantandon2801"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
 
  
