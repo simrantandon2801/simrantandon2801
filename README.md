@@ -13,13 +13,13 @@
  
  
  
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/rajiv786)
-[![Linkedin Badge](https://img.shields.io/badge/-Rajiv%20khanduja-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/rajiv-khanduja/)](https://www.linkedin.com/in/rajiv-khanduja//) 
- [![GitHub followers](https://img.shields.io/github/followers/hac?label=Follow&style=social)](https://github.com/rajiv786)
-![GitHub Stars](https://img.shields.io/github/stars/rajiv786?style=social)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/simrantandon2801)
+[![Linkedin Badge](https://img.shields.io/badge/-Rajiv%20khanduja-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/simran-tandon1/](https://www.linkedin.com/in/simran-tandon1///) 
+ [![GitHub followers](https://img.shields.io/github/followers/hac?label=Follow&style=social)](https://github.com/simrantandon2801)
+![GitHub Stars](https://img.shields.io/github/stars/simrantandon2801?style=social)
 
-📫 How to reach me: rajivkhanduja2@gmail.com;
-🔗 My website: https://rajivkhanduja2.wixsite.com/portfolio
+📫 How to reach me: simrantandon2801@gmail.com;
+
 
 
 
@@ -31,7 +31,7 @@
 <!--About Me-->
 <div>
  <p>
-  <img width="240" height="230" align='right' src="https://github.com/rajiv786/rajiv786/blob/main/assets/oct-about.png"> 
+  <img width="240" height="230" align='right' src="https://github.com/simranandon2801/simrantandon2801/blob/main/assets/oct-about.png"> 
 </p>
   
 
