@@ -14,7 +14,7 @@
  
  
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/simrantandon2801)
-[![Linkedin Badge](https://img.shields.io/badge/-Rajiv%20khanduja-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/simran-tandon1/](https://www.linkedin.com/in/simran-tandon1///) 
+[![Linkedin Badge](https://img.shields.io/badge/-simran%20tandon-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/simran-tandon1/](https://www.linkedin.com/in/simran-tandon1///) 
  [![GitHub followers](https://img.shields.io/github/followers/hac?label=Follow&style=social)](https://github.com/simrantandon2801)
 ![GitHub Stars](https://img.shields.io/github/stars/simrantandon2801?style=social)
 
