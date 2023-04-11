@@ -31,7 +31,7 @@
 <!--About Me-->
 <div>
  <p>
-  <img width="240" height="230" align='right' src="https://github.com/simranandon2801/simrantandon2801/blob/main/assets/oct-about.png"> 
+  <img width="240" height="230" align='right' src="https://github.com/simrantandon2801/simrantandon2801/blob/main/assets/oct-about.png"> 
 </p>
   
 
